@@ -1,0 +1,93 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\alemo\Documents\PROJECTS\PROTIPARK\pk2001\main.PcbDoc
+Date     : 6/24/2021
+Time     : 11:29:52 AM
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: NONET_L01_P013 In net GND On Top Layer
+   Polygon named: NONET_L02_P015 In net GND On Bottom Layer
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InComponent('')),(All)
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(0mm,31.2mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(0mm,31.2mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(0mm,31.2mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(0mm,31.2mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(0mm,31.2mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(0mm,31.2mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(0mm,31.2mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(0mm,31.2mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(25mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(25mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(25mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(25mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(25mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(25mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,0mm)(25mm,0mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,25mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,25mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,25mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,25mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,25mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,25mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (0mm,25mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (25mm,0mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (25mm,0mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (25mm,0mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (25mm,0mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (25mm,0mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (25mm,0mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (25mm,0mm)(25mm,25mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Region (0 hole(s)) Multi-Layer And Track (25mm,0mm)(25mm,25mm) on Keep-Out Layer 
+Rule Violations :30
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=1.27mm) (Preferred=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+   Waived Violation between Modified Polygon: Polygon Shelved  (NONET_L01_P013) on Top Layer Waived by Alejandro Lemos at 6/24/2021 12:38:50 AMCorresponds to castellated holes
+   Waived Violation between Modified Polygon: Polygon Shelved  (NONET_L02_P015) on Bottom Layer Waived by Alejandro Lemos at 6/24/2021 12:38:57 AMCorresponds to castellated holes
+Waived Violations :2
+
+
+Violations Detected : 30
+Waived Violations : 2
+Time Elapsed        : 00:00:01
