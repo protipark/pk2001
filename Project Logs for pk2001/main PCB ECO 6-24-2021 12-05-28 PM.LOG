@@ -1,0 +1,3 @@
+Change Component Comment : Designator=D2 Old Comment=SL24A New Comment=1N5819HW-7-F
+Change Managed Component Library Link : Designator=D2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=DB8946F2-DE94-4043-80CF-4580A96ED682 New ItemGUID= Old RevisionGUID=B73B0A5B-5805-40C3-A46F-72F025094C8E New RevisionGUID=
+Change component parameters: Designator = "D2" ("D2"); Footprint = "GESC-GAP3SLT33-214-2_V"; UniqueID = "\SRBKOQKF" ("\SRBKOQKF")

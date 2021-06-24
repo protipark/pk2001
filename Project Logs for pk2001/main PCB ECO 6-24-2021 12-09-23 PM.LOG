@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VIN Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=3V3 Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=VIN Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Change Component Footprint: Designator=C5 Old Footprint=KEMT-T491-A_L New Footprint=C0603_L
+Change Component Footprint: Designator=C7 Old Footprint=KEMT-T491-A_L New Footprint=C0603_L
+Change Component Footprint: Designator=C8 Old Footprint=KEMT-T491-A_L New Footprint=C0603_L
+Change Component Comment : Designator=C5 Old Comment=10uF/16V/3216 New Comment=10uF/16V/0603
+Change Component Comment : Designator=C8 Old Comment=10uF/16V/3216 New Comment=10uF/16V/0603
+Change Component Comment : Designator=C7 Old Comment=100uF/16V/3216 New Comment=10uF/16V/0603
+Change Managed Component Library Link : Designator=C5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9826AFED-844E-4ADA-8E13-294E517C9F32 New ItemGUID= Old RevisionGUID=CA6111B4-4F73-4AB9-A4B2-AB16B2C9212E New RevisionGUID=
+Change Managed Component Library Link : Designator=C7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9826AFED-844E-4ADA-8E13-294E517C9F32 New ItemGUID= Old RevisionGUID=CA6111B4-4F73-4AB9-A4B2-AB16B2C9212E New RevisionGUID=
+Change Managed Component Library Link : Designator=C8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9826AFED-844E-4ADA-8E13-294E517C9F32 New ItemGUID= Old RevisionGUID=CA6111B4-4F73-4AB9-A4B2-AB16B2C9212E New RevisionGUID=
+Change component parameters: Designator = "C5" ("C5"); Footprint = "KEMT-T491-A_L"; UniqueID = "\PHHAUXKT" ("\PHHAUXKT")
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF/16V/0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "KEMT-T491-A_L"; UniqueID = "\ZJMGZGNP" ("\ZJMGZGNP")
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF/16V/0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "KEMT-T491-A_L"; UniqueID = "\PBDVLNHY" ("\PBDVLNHY")
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF/16V/0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VIN Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VIN Pin=C8-2

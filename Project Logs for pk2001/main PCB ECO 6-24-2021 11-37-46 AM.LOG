@@ -1,0 +1,90 @@
+Added Component: Designator=CSTL1(CASTELLATED)
+Added Component: Designator=CSTL2(CASTELLATED)
+Added Component: Designator=CSTL3(CASTELLATED)
+Added Component: Designator=CSTL4(CASTELLATED)
+Added Component: Designator=CSTL5(CASTELLATED)
+Added Component: Designator=CSTL6(CASTELLATED)
+Added Component: Designator=CSTL7(CASTELLATED)
+Added Component: Designator=CSTL8(CASTELLATED)
+Added Component: Designator=CSTL9(CASTELLATED)
+Added Component: Designator=CSTL10(CASTELLATED)
+Added Component: Designator=CSTL11(CASTELLATED)
+Added Component: Designator=CSTL12(CASTELLATED)
+Added Component: Designator=CSTL13(CASTELLATED)
+Added Component: Designator=CSTL14(CASTELLATED)
+Added Component: Designator=CSTL15(CASTELLATED)
+Added Component: Designator=CSTL16(CASTELLATED)
+Added Component: Designator=CSTL17(CASTELLATED)
+Added Component: Designator=CSTL18(CASTELLATED)
+Added Component: Designator=CSTL19(CASTELLATED)
+Added Component: Designator=CSTL20(CASTELLATED)
+Added Component: Designator=CSTL21(CASTELLATED)
+Added Component: Designator=CSTL22(CASTELLATED)
+Added Component: Designator=CSTL23(CASTELLATED)
+Added Component: Designator=CSTL24(CASTELLATED)
+Added Component: Designator=CSTL25(CASTELLATED)
+Added Component: Designator=CSTL26(CASTELLATED)
+Added Component: Designator=CSTL27(CASTELLATED)
+Added Component: Designator=CSTL28(CASTELLATED)
+Added Component: Designator=CSTL29(CASTELLATED)
+Added Component: Designator=CSTL30(CASTELLATED)
+Added Pin To Net: NetName=D1/TX Pin=CSTL1-0
+Added Pin To Net: NetName=VIN Pin=CSTL2-0
+Added Pin To Net: NetName=D0/RX Pin=CSTL3-0
+Added Pin To Net: NetName=GND Pin=CSTL4-0
+Added Pin To Net: NetName=RESET Pin=CSTL5-0
+Added Pin To Net: NetName=RESET Pin=CSTL6-0
+Added Pin To Net: NetName=GND Pin=CSTL7-0
+Added Pin To Net: NetName=5V Pin=CSTL8-0
+Added Pin To Net: NetName=D2 Pin=CSTL9-0
+Added Pin To Net: NetName=A7 Pin=CSTL10-0
+Added Pin To Net: NetName=D3 Pin=CSTL11-0
+Added Pin To Net: NetName=A6 Pin=CSTL12-0
+Added Pin To Net: NetName=D4 Pin=CSTL13-0
+Added Pin To Net: NetName=A5 Pin=CSTL14-0
+Added Pin To Net: NetName=D5 Pin=CSTL15-0
+Added Pin To Net: NetName=A4 Pin=CSTL16-0
+Added Pin To Net: NetName=D6 Pin=CSTL17-0
+Added Pin To Net: NetName=A3 Pin=CSTL18-0
+Added Pin To Net: NetName=D7 Pin=CSTL19-0
+Added Pin To Net: NetName=A2 Pin=CSTL20-0
+Added Pin To Net: NetName=D8 Pin=CSTL21-0
+Added Pin To Net: NetName=A1 Pin=CSTL22-0
+Added Pin To Net: NetName=D9 Pin=CSTL23-0
+Added Pin To Net: NetName=A0 Pin=CSTL24-0
+Added Pin To Net: NetName=D10 Pin=CSTL25-0
+Added Pin To Net: NetName=AREF Pin=CSTL26-0
+Added Pin To Net: NetName=D11/MOSI Pin=CSTL27-0
+Added Pin To Net: NetName=3V3 Pin=CSTL28-0
+Added Pin To Net: NetName=D12/MISO Pin=CSTL29-0
+Added Pin To Net: NetName=D13/SCK Pin=CSTL30-0
+Added Member To Class: ClassName=main Member=Component CSTL1 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL2 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL3 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL4 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL5 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL6 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL7 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL8 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL9 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL10 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL11 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL12 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL13 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL14 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL15 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL16 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL17 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL18 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL19 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL20 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL21 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL22 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL23 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL24 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL25 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL26 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL27 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL28 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL29 CASTELLATED
+Added Member To Class: ClassName=main Member=Component CSTL30 CASTELLATED
